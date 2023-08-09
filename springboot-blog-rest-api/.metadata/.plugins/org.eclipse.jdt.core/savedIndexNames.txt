@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\akhil\Java projects\Idea Projects\springboot-blog-rest-api\springboot-blog-rest-api\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
